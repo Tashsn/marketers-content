@@ -85,7 +85,7 @@ p {
 }
 
 .content {
-    max-width: 100%;
+    max-width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
